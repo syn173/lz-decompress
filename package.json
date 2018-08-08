@@ -1,0 +1,19 @@
+{
+  "main": "index.js",
+  "bin": {
+    "lz-decompress": "bin/lz-decompress.js"
+  },
+  "dependencies": {
+    "lz-string": "^1.4.4",
+    "query-string": "^6.1.0"
+  },
+  "name": "lz-decompress",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chengjiang",
+  "license": "MIT",
+  "description": ""
+}
