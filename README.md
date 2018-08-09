@@ -38,7 +38,6 @@ output:
   timestamp: '1533698000109',
   tracepromotionid: 'NA',
   ua: 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
-  url: 'http://100000166343.retail.n.weimob.com/saas/retail/100000166343/7163743/shop/index',
   v: 'h5-88',
   visualratio: '100',
   wid: '1120226971',
