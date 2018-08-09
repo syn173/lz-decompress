@@ -1,6 +1,6 @@
 {
   "name": "lz-decompress",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "bin": {
     "lz-decompress": "bin/lz-decompress.js"
